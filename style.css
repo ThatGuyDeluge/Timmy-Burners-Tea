@@ -1,0 +1,106 @@
+body{
+    background-color:#fc6703;
+    font-family: fantasy;
+    margin:0;
+    padding-top:800px;
+    color:#000000;
+    text-align: center;
+    
+    
+    
+}
+.profile{
+    width:175px;
+    margin-bottom:50px;
+    border-radius:50%;
+    
+
+}
+#Welcome{
+    position: absolute;
+    height:100%;
+    color:springgreen;
+    display:table;
+    width: 100%;;
+    z-index: 9;
+    background:#9803fc;
+    
+    
+    
+    
+        
+    
+
+        
+}
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+    
+    
+    
+    
+}
+#name{
+    font-size:30px;
+    font-family: cursive;
+    
+}
+h2{
+    font-size:30px;
+    font-family: 
+        sans-serif;
+}
+p{
+    width:400px;
+    margin:25px;
+    
+    
+}
+#Bio{
+    padding:50px;
+    text-align: center;
+    font-size:25px;
+        
+}
+.menu{
+
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor:alias;
+    width: 100%;
+    margin-top: 0px;
+    
+
+}
+.links{
+    float: left;
+    color: darkturquoise;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 5px; 
+    font-family: monospace;
+    font-size: 20px;
+    
+    
+    
+}
+.links:hover{
+    background-color: floralwhite;
+    
+}
+.parrelax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+    
+
+
